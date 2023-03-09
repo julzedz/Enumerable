@@ -1,8 +1,5 @@
-# frozen_string_literal: true
-
 require './my_enumerable'
 
-# MyList class
 class MyList
   include MyEnumerable
 
