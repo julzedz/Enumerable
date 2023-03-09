@@ -178,7 +178,7 @@ To run the project, execute the following command:
 👤 **Jules Edozie**
 
 - GitHub: [@githubhandle](https://github.com/julzedz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jules-edozie-b59b94234/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/jules-edozie)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,7 +226,7 @@ We would like to thank the Microverse Community
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 
