@@ -8,7 +8,7 @@ module MyEnumerable
   def any?
     nums = []
     list.each { |num| nums.push(num) if yield num }
-    p !list.empty?
+    p !nums.empty?
   end
 
   def filter?
