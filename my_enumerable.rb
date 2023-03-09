@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# This module is used to create a custom enumerable
 module MyEnumerable
   def all?
     nums = []
